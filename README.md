@@ -1,6 +1,5 @@
 # Tic Tac Toe Game in C++
 
-## Overview
 This project is a console-based Tic Tac Toe game developed using C++.  
 It demonstrates core programming concepts such as loops, arrays, functions, and conditional logic through an interactive mini game.
 
