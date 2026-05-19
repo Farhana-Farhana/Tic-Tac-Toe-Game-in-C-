@@ -31,7 +31,7 @@ The game allows two players to play Tic Tac Toe with dynamic board updates, win 
 
 ### Compile
 ```bash
-g++ main.cpp -o tictactoe
+g++ task4.cpp -o tictactoe
 ```
 
 ### Run
@@ -57,7 +57,7 @@ g++ main.cpp -o tictactoe
 
 <p align="left">
 
-<img src="op1.png" width="300"/>
+<img src="op1.png" width="200"/>
 <img src="op2.png" width="300"/>
 
 </p>
