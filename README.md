@@ -27,16 +27,6 @@ The game allows two players to play Tic Tac Toe with dynamic board updates, win 
 
 ---
 
-## Project Structure
-
-Tic-Tac-Toe-Game/
-│
-├── main.cpp
-├── README.md
-└── images/
-
----
-
 ## How to Run
 
 ### Compile
@@ -65,10 +55,10 @@ g++ main.cpp -o tictactoe
 
 # Output Screenshots
 
-<p align="center">
+<p align="left">
 
-<img src="op1.png" width="450"/>
-<img src="op2.png" width="450"/>
+<img src="op1.png" width="300"/>
+<img src="op2.png" width="300"/>
 
 </p>
 
