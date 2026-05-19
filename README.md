@@ -57,7 +57,7 @@ g++ task4.cpp -o tictactoe
 <p align="left">
 
 <img src="op1.png" width="200"/>
-<img src="op2.png" width="300"/>
+<img src="op2.png" width="320"/>
 
 </p>
 
